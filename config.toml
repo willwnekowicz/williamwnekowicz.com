@@ -12,7 +12,7 @@ googleAnalytics = "UA-118775054-1"
 
   # Metadata for search engines and social sharing
   name = "William Wnekowicz"
-  description = "William Wnekowicz is a software engineer living and working in San Francisco. He's the Principal Engineer at Kleiner Perkins, a Maker, and a Private Pilot."
+  description = "William Wnekowicz is a software engineer living and working in San Francisco. He's a Software Engineer at BOND, a Maker, and a Private Pilot."
   shareImage = "images/social.png"
   twitterHandle = "willwnekowicz"
 
@@ -28,7 +28,7 @@ googleAnalytics = "UA-118775054-1"
     tagline = "Software Engineer."
     tagline2 = "Maker."
     tagline3 = "Private Pilot."
-    bio = "William Wnekowicz is a software engineer living and working in San Francisco. He's the Principal Engineer at Kleiner Perkins, a Maker, and a Private Pilot. He spends time thinking about venture capital, startups, software, and cryptocurrencies."
+    bio = "William Wnekowicz is a software engineer living and working in San Francisco. He's a Software Engineer at BOND, a Maker, and a Private Pilot. He spends time thinking about venture capital, startups, software, and cryptocurrencies."
 
   # Section - Visual
   [params.visual]
